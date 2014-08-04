@@ -1,3 +1,3 @@
 group2bravo
 ===========
-ZIP files contain all the project of Bravo Hospital Website
+This will contain all the codes for (http://group2cp2013.ueuo.com)
