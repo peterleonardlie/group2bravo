@@ -1,0 +1,1295 @@
+/* CSS Document */
+
+a:hover
+{
+background-color: #F90;
+}
+
+.Aboutbackground{
+	height: 637px;
+	width: 855px;
+	z-index: 200000;
+	position: absolute;
+	padding: 5px 5px 5px 5px;
+	background:#F0F8FF;
+	left: 215px;
+	top: 204px;
+}
+.Appointmentbackground{
+	height: 614px;
+	width: 855px;
+	z-index: 200000;
+	position: absolute;
+	padding: 5px 5px 5px 5px;
+	background:#F0F8FF;
+	left: 215px;
+	top: 204px;
+	text-align:center;
+}
+
+#adminDetails{
+	z-index: 300000;
+	position: absolute;
+	width: 307px;
+	height: 115px;
+	top: 44px;
+	left: 215px;
+}
+
+#adminDetails a{
+	text-decoration:none;
+	font-size:22px;
+	color:#000;
+	
+}
+
+#adminDetails a:hover{
+	background:#F90;
+    color:#FFF;
+    text-shadow:1px 1px 1px #000;
+}
+
+#adminDetails a:onlink{
+	background:#F0F8FF;
+    color:#000;
+    border-bottom:1px solid #FFF; 
+}
+
+.Adminbackground{
+	height: 395px;
+	width: 855px;
+	z-index: 200000;
+	position: absolute;
+	padding: 5px 5px 5px 5px;
+	background:#F0F8FF;
+	left: 215px;
+	top: 204px;
+}
+
+#bold{
+	font-weight:bold;
+}
+
+.BackgroundColor{
+	background-color:#022C74;
+}
+
+.BackgroundColor2{
+	background-color:#FFF ;
+}
+
+
+#bottomMenu{
+	height: 25px;
+	width: 855px;
+	z-index: 200000;
+	position: absolute;
+	background: linear-gradient(#1484ce, #1274b5);
+	border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+	padding: 5px 5px 5px 5px;
+	text-align: left;
+	box-shadow: 0 2px 3px rgba(100, 100, 100, 0.4);
+	clear:both;
+	top: 632px;
+	left: 215px;
+}
+
+#bottomMenuView{
+	height: 25px;
+	width: 855px;
+	z-index: 200000;
+	position: absolute;
+	background: linear-gradient(#1484ce, #1274b5);
+	border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+	padding: 5px 5px 5px 5px;
+	text-align: left;
+	box-shadow: 0 2px 3px rgba(100, 100, 100, 0.4);
+	clear:both;
+	top: 456px;
+	left: 215px;
+}
+
+#bottomMenuReschedule{
+	height: 25px;
+	width: 855px;
+	z-index: 200000;
+	position: absolute;
+	background: linear-gradient(#1484ce, #1274b5);
+	border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+	padding: 5px 5px 5px 5px;
+	text-align: left;
+	box-shadow: 0 2px 3px rgba(100, 100, 100, 0.4);
+	clear:both;
+	top: 533px;
+	left: 215px;
+}
+
+#bottomMenuCreateAppt{
+	height: 25px;
+	width: 855px;
+	z-index: 200000;
+	position: absolute;
+	background: linear-gradient(#1484ce, #1274b5);
+	border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+	padding: 5px 5px 5px 5px;
+	text-align: left;
+	box-shadow: 0 2px 3px rgba(100, 100, 100, 0.4);
+	clear:both;
+	top: 601px;
+	left: 215px;
+}
+
+#bottomMenuAppt{
+	height: 25px;
+	width: 855px;
+	z-index: 200000;
+	position: absolute;
+	background: linear-gradient(#1484ce, #1274b5);
+	border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+	padding: 5px 5px 5px 5px;
+	text-align: left;
+	box-shadow: 0 2px 3px rgba(100, 100, 100, 0.4);
+	clear:both;
+	top: 824px;
+	left: 215px;
+}
+
+#bottomMenuCancelAppt{
+	height: 25px;
+	width: 855px;
+	z-index: 200000;
+	position: absolute;
+	background: linear-gradient(#1484ce, #1274b5);
+	border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+	padding: 5px 5px 5px 5px;
+	text-align: left;
+	box-shadow: 0 2px 3px rgba(100, 100, 100, 0.4);
+	clear:both;
+	top: 487px;
+	left: 215px;
+}
+
+#bottomMenuMember{
+	height: 25px;
+	width: 855px;
+	z-index: 200000;
+	position: absolute;
+	background: linear-gradient(#1484ce, #1274b5);
+	border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+	padding: 5px 5px 5px 5px;
+	text-align: left;
+	box-shadow: 0 2px 3px rgba(100, 100, 100, 0.4);
+	clear:both;
+	top: 549px;
+	left: 215px;
+}
+#bottomMenuAbt{
+	height: 25px;
+	width: 855px;
+	z-index: 200000;
+	position: absolute;
+	background: linear-gradient(#1484ce, #1274b5);
+	border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+	padding: 5px 5px 5px 5px;
+	text-align: left;
+	box-shadow: 0 2px 3px rgba(100, 100, 100, 0.4);
+	clear:both;
+	top: 844px;
+	left: 215px;
+}
+
+#bottomMenuViewAll{
+	height: 25px;
+	width: 855px;
+	z-index: 200000;
+	position: absolute;
+	background: linear-gradient(#1484ce, #1274b5);
+	border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+	padding: 5px 5px 5px 5px;
+	text-align: left;
+	box-shadow: 0 2px 3px rgba(100, 100, 100, 0.4);
+	clear:both;
+	top: 2356px;
+	left: 0px;
+}
+
+
+#bottomMenuServices{
+	height: 25px;
+	width: 855px;
+	z-index: 200000;
+	position: absolute;
+	background: linear-gradient(#1484ce, #1274b5);
+	border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+	padding: 5px 5px 5px 5px;
+	text-align: left;
+	box-shadow: 0 2px 3px rgba(100, 100, 100, 0.4);
+	clear:both;
+	top: 654px;
+	left: 215px;
+}
+
+#bottomMenuContact{
+	height: 25px;
+	width: 855px;
+	z-index: 200000;
+	position: absolute;
+	background: linear-gradient(#1484ce, #1274b5);
+	border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+	padding: 5px 5px 5px 5px;
+	text-align: left;
+	box-shadow: 0 2px 3px rgba(100, 100, 100, 0.4);
+	clear:both;
+	top: 1070px;
+	left: 215px;
+}
+	
+
+#bottomMenuDirectory{
+	height: 25px;
+	width: 855px;
+	z-index: 200000;
+	position: absolute;
+	background: linear-gradient(#1484ce, #1274b5);
+	border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+	padding: 5px 5px 5px 5px;
+	text-align: left;
+	box-shadow: 0 2px 3px rgba(100, 100, 100, 0.4);
+	clear:both;
+	top: 1479px;
+	left: 215px;
+	}
+	
+#bottomMenuDAppt{
+	height: 25px;
+	width: 855px;
+	z-index: 200000;
+	position: absolute;
+	background: linear-gradient(#1484ce, #1274b5);
+	border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+	padding: 5px 5px 5px 5px;
+	text-align: left;
+	box-shadow: 0 2px 3px rgba(100, 100, 100, 0.4);
+	clear:both;
+	top: 1637px;
+	left: 215px;
+	}	
+	
+#bottomMenuPayment{
+	height: 25px;
+	width: 855px;
+	z-index: 200000;
+	position: absolute;
+	background: linear-gradient(#1484ce, #1274b5);
+	border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+	padding: 5px 5px 5px 5px;
+	text-align: left;
+	box-shadow: 0 2px 3px rgba(100, 100, 100, 0.4);
+	clear:both;
+	top: 694px;
+	left: 215px;
+	}
+	
+#bottomMenuAdmin{
+	height: 25px;
+	width: 855px;
+	z-index: 200000;
+	position: absolute;
+	background: linear-gradient(#1484ce, #1274b5);
+	border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+	padding: 5px 5px 5px 5px;
+	text-align: left;
+	box-shadow: 0 2px 3px rgba(100, 100, 100, 0.4);
+	clear:both;
+	top: 582px;
+	left: 215px;
+	}
+	
+.cancelAppointmentbackground{
+	height: 277px;
+	width: 855px;
+	z-index: 200000;
+	position: absolute;
+	padding: 5px 5px 5px 5px;
+	background:#F0F8FF;
+	left: 215px;
+	top: 204px;
+	text-align:center;
+}
+	
+.Contactbackground{
+	height: 863px;
+	width: 855px;
+	z-index: 200000;
+	position: absolute;
+	padding: 5px 5px 5px 5px;
+	background:#F0F8FF;
+	left: 215px;
+	top: 204px;
+}
+
+.createAppointmentbackground{
+	height: 394px;
+	width: 855px;
+	z-index: 200000;
+	position: absolute;
+	padding: 5px 5px 5px 5px;
+	background:#F0F8FF;
+	left: 215px;
+	top: 204px;
+	text-align:center;
+}
+
+.contactInfo{
+	position: absolute;
+	left: 448px;
+	top: 631px;
+	z-index:300000;
+	width: 215px;
+	height: 134px;
+}
+	
+
+.drDirectorybackground{
+	height: 1300px;
+	width: 855px;
+	z-index: 200000;
+	position: absolute;
+	padding: 5px 5px 5px 5px;
+	background:#F0F8FF;
+	left: 215px;
+	top: 204px;
+}	
+
+.deleteApptbackground{
+	height: 1436px;
+	width: 855px;
+	z-index: 200000;
+	position: absolute;
+	padding: 5px 5px 5px 5px;
+	background:#F0F8FF;
+	left: 215px;
+	top: 204px;
+}
+
+.paymentBackground{
+	height: 483px;
+	width: 855px;
+	z-index: 200000;
+	position: absolute;
+	padding: 5px 5px 5px 5px;
+	background:#F0F8FF;
+	left: 215px;
+	top: 204px;
+}
+
+#feedbackButton{
+	width: 129px;
+	height: 35px;
+	margin: 30px 50px;
+	background: linear-gradient(#fda12a, #fdbc68);
+	z-index:200000;
+	position:absolute;
+	left: 397px;
+	top: 917px;
+	opacity:1;
+	border-radius: 8px;
+}
+
+#feedbackButton:hover{
+    background:#FF9;
+    color:#FFF;
+    text-shadow:1px 1px 1px #000;
+}
+	
+#footerText{
+	position: absolute;
+	z-index: 200000;
+	left: 268px;
+	top: 13px;
+}
+
+#footerTextView{
+	position: absolute;
+	z-index: 200000;
+	left: 268px;
+	top: 13px;
+}
+
+
+#footerTextReschedule{
+	position: absolute;
+	z-index: 200000;
+	left: 268px;
+	top: 13px;
+}
+
+#footerTextCreateAppt{
+	position: absolute;
+	z-index: 200000;
+	left: 268px;
+	top: 13px;
+}
+
+#footerTextMember{
+	position: absolute;
+	z-index: 200000;
+	left: 268px;
+	top: 13px;
+}
+
+#footerTextAbt{
+	position: absolute;
+	z-index: 200000;
+	left: 268px;
+	top: 13px;
+}
+
+#footerTextViewAll{
+	position: absolute;
+	z-index: 200000;
+	left: 268px;
+	top: 13px;
+}
+
+#footerTextContact{
+	position: absolute;
+	z-index: 200000;
+	left: 268px;
+	top: 13px;
+}
+
+#footerTextDirectory{
+	position: absolute;
+	z-index: 200000;
+	left: 268px;
+	top: 13px;
+}
+
+#footerTextDAppt{
+	position: absolute;
+	z-index: 200000;
+	left: 268px;
+	top: 13px;
+}
+
+#footerTextPayment{
+	position: absolute;
+	z-index: 200000;
+	left: 268px;
+	top: 13px;
+}
+
+#footerTextAdmin{
+	position: absolute;
+	z-index: 200000;
+	left: 268px;
+	top: 13px;
+}
+
+#footerTextAppt{
+    position: absolute;
+	z-index: 200000;
+	left: 268px;
+	top: 13px;
+}
+
+#footerTextCancelAppt{
+    position: absolute;
+	z-index: 200000;
+	left: 268px;
+	top: 13px;
+}
+
+#footerTextServices{
+position: absolute;
+	z-index: 200000;
+	left: 268px;
+	top: 13px;
+}
+
+#FacilityPic{
+	position: absolute;
+	z-index: 250000;
+	left: 437px;
+	top: 685px;
+	}
+
+#addressBox{
+	z-index:200000;
+	position: absolute;
+	width: 166px;
+	height: 51px;
+	left: 430px;
+	top: 65px;
+}
+
+.Homebackground{
+	height: 449px;
+	width: 855px;
+	z-index: 200000;
+	position: absolute;
+	padding: 5px 5px 5px 5px;
+	background:#F0F8FF;
+	left: 215px;
+	top: 204px;
+}
+.horizontalLine1 {
+border-top: thin solid;
+z-index: 200000;
+position: absolute;
+left: 215px;
+top: 203px;
+width: 15px;
+height: 8px;
+}
+
+.horizontalLine1x1 {
+border-top: thin solid;
+z-index: 200000;
+position: absolute;
+left: 382px;
+top: 203px;
+width: 700px;
+height: 8px;
+}
+
+.horizontalLineAbt {
+	border-top: thin solid;
+	z-index: 200000;
+	position: absolute;
+	left: 215px;
+	top: 203px;
+	width: 173px;
+	height: 8px;
+}
+
+.horizontalLineMember {
+	border-top: thin solid;
+	z-index: 200000;
+	position: absolute;
+	left: 215px;
+	top: 203px;
+	width: 863px;
+	height: 8px;
+}
+
+.horizontalLine2 {
+	border-top: thin solid;
+	z-index: 200000;
+	position: absolute;
+	left: 508px;
+	top: 432px;
+	width: 243px;
+	height: 8px;
+	opacity: 0.5;
+}
+
+.horizontalLine3 {
+	border-top: thin solid;
+	z-index: 200000;
+	position: absolute;
+	left: 529px;
+	top: 399px;
+	width: 243px;
+	height: 8px;
+	opacity: 0.5;
+}
+
+.horizontalLine4 {
+	border-top: thin solid;
+	z-index: 200000;
+	position: absolute;
+	left: 529px;
+	top: 359px;
+	width: 243px;
+	height: 8px;
+	opacity: 0.5;
+}
+
+.horizontalLineAbt2 {
+	border-top: thin solid;
+	z-index: 200000;
+	position: absolute;
+	left: 538px;
+	top: 203px;
+	width: 543px;
+	height: 8px;
+}
+
+.horizontalLineAppt {
+	border-top: thin solid;
+	z-index: 200000;
+	position: absolute;
+	left: 215px;
+	top: 203px;
+	width: 486px;
+	height: 8px;
+}
+
+.horizontalLineAppt2 {
+	border-top: thin solid;
+	z-index: 200000;
+	position: absolute;
+	left: 852px;
+	top: 203px;
+	width: 228px;
+	height: 8px;
+}
+
+.horizontalLineContact {
+	border-top: thin solid;
+	z-index: 200000;
+	position: absolute;
+	left: 215px;
+	top: 203px;
+	width: 644px;
+	height: 8px;
+}
+
+.horizontalLineContact2 {
+	border-top: thin solid;
+	z-index: 200000;
+	position: absolute;
+	left: 1009px;
+	top: 203px;
+	width: 72px;
+	height: 8px;
+}
+
+.horizontalLineVision {
+	border-top: thin solid;
+	z-index: 200000;
+	position: absolute;
+	left: 528px;
+	top: 383px;
+	width: 243px;
+	height: 8px;
+	opacity: 0.5;
+}
+.horizontalLineCoreValue {
+	border-top: thin solid;
+	z-index: 200000;
+	position: absolute;
+	left: 528px;
+	top: 662px;
+	width: 243px;
+	height: 8px;
+	opacity: 0.5;
+}
+
+.horizontalLineCoreValue2 {
+	border-top: thin solid;
+	z-index: 200000;
+	position: absolute;
+	left: 528px;
+	top: 690px;
+	width: 243px;
+	height: 8px;
+	opacity: 0.5;
+}
+
+
+.horizontalLinePay {
+border-top: thin solid;
+z-index: 200000;
+position: absolute;
+left: 215px;
+top: 203px;
+width: 330px;
+height: 8px;
+}
+
+.horizontalLinePay2 {
+	border-top: thin solid;
+	z-index: 200000;
+	position: absolute;
+	left: 696px;
+	top: 203px;
+	width: 384px;
+	height: 8px;
+}
+
+.horizontalLineLogout {
+border-top: thin solid;
+z-index: 200000;
+position: absolute;
+left: 215px;
+top: 203px;
+width: 330px;
+height: 8px;
+}
+
+.horizontalLineLogout2 {
+	border-top: thin solid;
+	z-index: 200000;
+	position: absolute;
+	left: 546px;
+	top: 203px;
+	width: 535px;
+	height: 8px;
+}
+
+.logo{
+	margin-left: 140px;
+	position: absolute;
+	z-index:1000;
+	top:41px;
+	left: 136px;
+	width: 137px;
+	height: 121px;
+}
+
+.logoutText{
+	z-index: 200000;
+	position: absolute;
+	left: 195px;
+	top: 68px;
+	width: 293px;
+}
+
+
+.logobackground{
+	height: 164px;
+	width: 855px;
+	z-index: 20;
+	position: absolute;
+	padding: 5px 5px 5px 5px;
+	background:#FFF;
+	left: 215px;
+	top: 31px;
+}
+
+.login{
+	z-index: 400000;
+	position: absolute;
+	left: 901px;
+	top: -5px;
+	height: 49px;
+	width: 175px;
+	color:#000;
+}
+
+
+
+
+#Menu{
+	height: 25px;
+	width: 855px;
+	z-index: 300000;
+	position: absolute;
+	background: linear-gradient(#1484ce, #1274b5);
+	border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+	padding: 5px 5px 5px 5px;
+	text-align: right;
+	box-shadow: 0 2px 3px rgba(100, 100, 100, 0.4);
+	clear:both;
+	top: 0px;
+	left: 215px;
+}
+
+#Menu a{
+	text-decoration:none;
+	color:#000;
+	font-family:"Arial Black", Gadget, sans-serif;
+	font-size:12px;
+	opacity:0.8;
+	
+}
+
+#Menu a:hover{
+	background:#F90;
+    color:#FFF;
+    text-shadow:1px 1px 1px #000;
+}
+
+#Menu a:onlink{
+	background:#F0F8FF;
+    color:#000;
+    border-bottom:1px solid #FFF; 
+}
+
+.memberDetails{
+	width: 680px;
+	height: 303px;
+	margin: 30px 50px;
+	background-color: #ffffff;
+	z-index: 200000;
+	position: absolute;
+	opacity: 0.6;
+	filter: alpha(opacity=60);
+	left: 258px;
+	top: 200px;
+
+}
+	
+
+.MainImage{
+	margin-left: 140px;
+	position: absolute;
+	z-index:1000;
+	top:166px;
+	left: -139px;
+	width: 1035px;
+	height: 144px;
+}
+
+#maps{
+	z-index:30000000;
+	position: absolute;
+	left: 447px;
+	top: 315px;
+}
+
+.memberDetailsbackground{
+	height: 343px;
+	width: 855px;
+	z-index: 200000;
+	position: absolute;
+	padding: 5px 5px 5px 5px;
+	background: #F0F8FF;
+	left: 215px;
+	top: 204px;
+}
+
+
+ #navbar {
+	width:815px;
+	z-index:100000;
+	position:absolute;
+	left: 205px;
+	top: 158px;
+	height: 66px;
+ } 
+
+ #navbar #holder {
+  height:64px;
+  
+  width:800px; 	
+  padding-left:25px; 
+ } 
+
+ #navbar #holder ul {
+  list-style:none;
+  margin:0;
+  padding:0; 
+ } 
+
+ #navbar #holder ul li a { 
+  text-decoration:none;
+  float:left;
+  margin-right:5px;
+  line-height:10px;
+  font-family:"Arial Black", Gadget, sans-serif;
+  color:#000;
+  border:1px solid #000;
+  border-bottom:none;
+  padding:20px;
+  width:110px;
+  text-align:center;
+  display:block;
+  background:linear-gradient(#1484ce, #1274b5);
+  -moz-border-radius-topleft:15px;
+  -moz-border-radius-topright:15px;
+  -webkit-border-top-left-radius:15px;
+  -webkit-border-top-right-radius:15px; 
+ } 
+
+ #navbar #holder ul li a:hover {
+  background:#F90;
+  color:#FFF;
+  text-shadow:1px 1px 1px #000;
+ } 
+ 
+ #navbarTop {
+	width:348px;
+	z-index:100000;
+	position:absolute;
+	left: 584px;
+	top: 22px;
+	height: 83px;
+ } 
+
+ #navbarTop #holderTop {
+  height:14px;
+  width:800px; 	
+  padding-left:25px; 
+ } 
+
+ #navbarTop #holderTop ul {
+  list-style:none;
+  margin:0;
+  padding:0; 
+ } 
+
+ #navbarTop #holderTop ul li a { 
+  text-decoration:none;
+  float:left;
+  margin-right:5px;
+  line-height:5px;
+  font-family:"Arial Black", Gadget, sans-serif;
+  color:#000;
+  border-top:none;
+  padding:20px;
+  padding-bottom: 11px;
+  width:110px;
+  font-size:12px;
+  text-align:center;
+  display:block;
+  background:linear-gradient(#1484ce, #c0e1fd);
+  opacity:0.8;
+  -moz-border-radius-bottomleft:5px;
+  -moz-border-radius-bottomright:5px;
+  -webkit-border-bottom-left-radius:5px;
+  -webkit-border-bottom-right-radius:5px; 
+ } 
+
+ #navbarTop #holderTop ul li a:hover {
+  background:#F90;
+  color:#FFF;
+  text-shadow:1px 1px 1px #000;
+ } 
+ 
+ 
+  #holder ul li a#onlink {
+  background:#F0F8FF;
+  color:#000;
+  border-bottom:1px solid #FFF; 
+ } 
+
+ #holder ul li a#onlink:hover {
+  background:#FFF;
+  color:#69F;
+  text-shadow:1px 1px 1px #000; 
+ }
+   #holderTop ul li a#onlink {
+  background:#F0F8FF;
+  color:#000; 
+ } 
+
+ #holderTop ul li a#onlink:hover {
+  background:#FFF;
+  color:#69F;
+  text-shadow:1px 1px 1px #000; 
+ }
+ 
+  .OpeningHrs{
+	z-index:300000;
+	position:absolute;
+	left: 449px;
+	top: 770px;
+ }
+ 
+ .openingTable{
+	position: absolute;
+	left: 448px;
+	top: 822px;
+	z-index:300000;
+	width: 215px;
+	height: 134px;
+}
+ 
+.Paymentbackground{
+	height: 449px;
+	width: 855px;
+	z-index: 200000;
+	position: absolute;
+	padding: 5px 5px 5px 5px;
+	background:#F0F8FF;
+	left: 215px;
+	top: 204px;
+}
+
+.picAdj{
+	position:absolute;
+	left: 80px;
+	top: 1px;
+}
+
+ 
+.posDrDirectory{
+	position: absolute;
+	top: -74px;
+	width: 299px;
+	left: 0px;
+}
+
+.posPayment{
+	position: absolute;
+	top: -74px;
+	width: 299px;
+	left: 0px;
+}
+
+.posAdminPage{
+	position: absolute;
+	top: -74px;
+	width: 299px;
+	left: 217px;
+}
+
+
+.posServices1{
+	position: absolute;
+	left: 592px;
+	top: 209px;
+	z-index:300000;
+}
+ 
+
+#posSignup{
+	position: absolute;
+	left: 575px;
+	top: 443px;
+	z-index:210000;
+	width: 123px;
+	height: 34px;
+	opacity:0.8;
+	color: #000;
+}
+
+#posFeedback{
+	position: absolute;
+	left: 474px;
+	top: 937px;
+	z-index:210000;
+	width: 123px;
+	height: 34px;
+	opacity:1;
+	color: #000;
+}
+
+#regButton{
+	width: 186px;
+	height: 57px;
+	margin: 30px 50px;
+	background: linear-gradient(#027195, #1274b5);
+	z-index:200000;
+	position:absolute;
+	left: 485px;
+	top: 423px;
+	opacity:0.8;
+	border:thin solid;
+	border-color:#000;
+	border-radius: 8px;
+	text-align: center;
+}
+
+#regButton:hover{
+    background:#F90;
+    color:#FFF;
+    text-shadow:1px 1px 1px #000;
+}
+
+.RescheduleAppointmentbackground{
+	height: 324px;
+	width: 855px;
+	z-index: 200000;
+	position: absolute;
+	padding: 5px 5px 5px 5px;
+	background:#F0F8FF;
+	left: 215px;
+	top: 204px;
+	text-align:center;
+}
+
+#searchBar{
+	z-index:400000;
+	position:absolute;
+	left: 748px;
+	top: 89px;
+	width: 241px;
+}
+
+.servicesBackground{
+	height: 448px;
+	width: 855px;
+	z-index: 200000;
+	position: absolute;
+	padding: 5px 5px 5px 5px;
+	background:#F0F8FF;
+	left: 215px;
+	top: 204px;
+}
+
+.transparentBox{
+	width: 680px;
+	height: 318px;
+	margin: 30px 50px;
+	background-color: #ffffff;
+	z-index:200000;
+	position:absolute;
+	opacity: 0.6;
+	filter: alpha(opacity=60); /* For IE8 and earlier */
+	left: 258px;
+	top: 242px;
+}
+
+.transparentBoxAppt{
+	background:#FFF;
+	z-index:200000;
+	position:absolute;
+	width: 790px;
+	height: 512px;
+	left: 37px;
+	top: 69px;
+}
+
+.transparentBoxLogout{
+	width: 680px;
+	height: 318px;
+	margin: 30px 50px;
+	background-color: #ffffff;
+	z-index:200000;
+	position:absolute;
+	opacity: 0.6;
+	filter: alpha(opacity=60); /* For IE8 and earlier */
+	left: 258px;
+	top: 242px;
+}
+
+.transparentBoxCancelAppt{
+	z-index:200000;
+	position:absolute;
+	background-color:#FFF;
+	
+}
+
+.transparentBoxAbt{
+	width: 680px;
+	height: 560px;
+	margin: 30px 50px;
+	background-color: #ffffff;
+	z-index:200000;
+	position:absolute;
+	opacity: 1;
+	filter: alpha(opacity=60); /* For IE8 and earlier */
+	left: 258px;
+	top: 212px;
+	text-align:center;
+}
+
+.transparentBoxViewAll{
+	width: 680px;
+	height: 2278px;
+	margin: 30px 50px;
+	background-color: #ffffff;
+	z-index:200000;
+	position:absolute;
+	opacity: 1;
+	filter: alpha(opacity=60); /* For IE8 and earlier */
+	left: 258px;
+	top: 212px;
+	text-align:center;
+}
+
+.transparentBoxDeleteAppt{
+	width: 680px;
+	height: 1366px;
+	margin: 30px 50px;
+	background-color: #ffffff;
+	z-index:200000;
+	position:absolute;
+	opacity: 1;
+	filter: alpha(opacity=60); /* For IE8 and earlier */
+	left: 258px;
+	top: 212px;
+	text-align:center;
+}
+
+.transparentBoxContact{
+	width: 680px;
+	height: 792px;
+	margin: 30px 50px;
+	background-color: #ffffff;
+	z-index:200000;
+	position:absolute;
+	opacity: 1;
+	filter: alpha(opacity=60); /* For IE8 and earlier */
+	left: 258px;
+	top: 212px;
+	text-align:center;
+}
+
+.transparentBoxDirectory{
+	width: 680px;
+	height: 1153px;
+	margin: 30px 50px;
+	background-color: #ffffff;
+	z-index:200000;
+	position:absolute;
+	opacity: 1;
+	filter: alpha(opacity=60); /* For IE8 and earlier */
+	left: 258px;
+	top: 248px;
+}
+
+.transparentBoxPayment{
+	width: 680px;
+	height: 307px;
+	margin: 30px 50px;
+	background-color: #ffffff;
+	z-index:200000;
+	position:absolute;
+	opacity: 1;
+	filter: alpha(opacity=60); /* For IE8 and earlier */
+	left: 258px;
+	top: 248px;
+}
+
+
+.transparentBoxAdmin{
+	width: 680px;
+	height: 245px;
+	margin: 30px 50px;
+	background-color: #ffffff;
+	z-index:200000;
+	position:absolute;
+	opacity: 1;
+	filter: alpha(opacity=60); /* For IE8 and earlier */
+	left: 258px;
+	top: 248px;
+}
+
+.transparentBoxServices{
+	width: 680px;
+	height: 327px;
+	margin: 30px 50px;
+	background-color: #ffffff;
+	z-index:200000;
+	position:absolute;
+	opacity: 1;
+	filter: alpha(opacity=60); /* For IE8 and earlier */
+	left: 258px;
+	top: 248px;
+}
+
+.viewAppointmentbackground{
+	height: 249px;
+	width: 855px;
+	z-index: 200000;
+	position: absolute;
+	padding: 5px 5px 5px 5px;
+	background:#F0F8FF;
+	left: 215px;
+	top: 204px;
+	text-align:center;
+}
+
+.ViewAllbackground{
+	height: 2363px;
+	width: 855px;
+	z-index: 200000;
+	position: absolute;
+	padding: 5px 5px 5px 5px;
+	background:#F0F8FF;
+	left: 215px;
+	top: 204px;
+}
+
+#wrapper {
+	margin-left:auto;
+	margin-right:auto;
+width: 90%;
+margin: 0 auto;
+}
